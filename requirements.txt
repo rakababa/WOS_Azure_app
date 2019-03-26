@@ -1,3 +1,4 @@
+--upgrade pip
 cfenv==0.5.3
 Flask==1.0.2
 tensorflow
